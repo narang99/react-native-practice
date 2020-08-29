@@ -1,0 +1,17 @@
+node_modules
+.expo
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+react-native-debugger
+
+# macOS
+.DS_Store
+
+/zips
+/react-native-debugger
